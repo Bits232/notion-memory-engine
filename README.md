@@ -94,6 +94,7 @@ VS Code Copilot (and any other MCP-compatible tool) connects to the same Notion 
 > Built for the [DEV.to x Notion MCP Challenge](https://dev.to/challenges/notion-2026-03-04)
 
 Watch the full demo video: https://youtu.be/54SRnggzLFE?si=OkdN6538BhUfpIK4
+
 Read the full DEV.to article: https://dev.to/isah_alamin_93d4e4d2ab01f/i-was-tired-of-explaining-my-project-to-every-new-ai-tab-i-opened-3ed7
 
 ---
